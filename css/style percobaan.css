@@ -119,16 +119,15 @@
 	}
 
 	.location {
-		background-color: #d9d9d9;
+		background-color: #f2f2f2;
 	}
 
-	.sistem {
-		background-color: #9999ff;
-		font-size: 23px;
+	.learning {
+		background-color: #f2f2f2;
 	}
 
 	.ekstrakulikuler {
-		background-color: #d9d9d9;
+		background-color: #f2f2f2;
 		font-size: 25px;
 	}
 
@@ -176,4 +175,18 @@
 	}
 
 	
+
+	.container {
+    position: relative;
+    max-width: 900px; /* Maximum width */
+    margin: 0 auto; /* Center it */
+}
+
+.container .content {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    color: #f1f1f1; /* Grey text */
+    width: 95%; /* Full width */
+    padding: 20px; /* Some padding */
+}
 
