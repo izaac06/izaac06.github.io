@@ -13,10 +13,9 @@ body, html {
     /* Position and center the image to scale nicely on all screens */
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 70vw;
     position: relative;
-    background-size: 800px;
-    padding-top: 350px;
+    padding-top: 100px;
 }
 
 /* Place text in the middle of the image */

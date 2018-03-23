@@ -1,14 +1,13 @@
 
-
 html{
-	position: relative;
+  position: relative;
 }
 
 body{
-	font: 20px/26px arial, sans-serif;
-	background-image: url("img/darkness.png");
-	background-color: #fff;
-	margin-top: 30px;
+  font: 20px/26px arial, sans-serif;
+  background-image: url("img/darkness.png");
+  background-color: #fff;
+  margin-top: 30px;
 }
 
 .container-fluid {
@@ -17,76 +16,76 @@ body{
 }
 
 .jumbotron {
-	background-color: #ffffff;
+  background-color: #fff;
 }
 
 
 
 .jumbotron {
-	width: 100%;
-	height: 100%;
-	left: 0px;
-	top: 0px;
-	background-size: cover;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  background-size: cover;
 }
 
 
 
 .jumbotron img{
-	width: 200px;
-	border:5px solid #666;
-	
+  width: 200px;
+  border:5px solid #666;
+  
 }
 
 .about {
-	background-color: #d9d9d9;
+  background-color: #d9d9d9;
 }
 
 .gallery {
-	background-color: #fff;
+  background-color: #fff;
 }
 
 .comment {
-	background-color: #d9d9d9;
+  background-color: #d9d9d9;
 }
 
 .container {
-	    position: relative;
-	    text-align: center;
-	    color: white;
-	}
+      position: relative;
+      text-align: center;
+      color: white;
+  }
 
 
 .row {
-	color: #000;
+  color: #000;
 }
 
 
 h2 {
-	color: #000;
+  color: #000;
 }
 
 
 hr{
-	width: 250px;
-	border-top: 3px solid #000;
+  width: 250px;
+  border-top: 3px solid #000;
 }
 
 section {
-	min-height: 600px;
+  min-height: 600px;
 }
 
 .portfolio {
-	background-color: #c2c2a3;
+  background-color: #c2c2a3;
 }
 
 .form-group {
-	text-align: left;
-	color: black;
+  text-align: left;
+  color: black;
 }
 
 .btn-primary {
-	position: left;
+  position: left;
 }
 
 
@@ -94,16 +93,17 @@ section {
 
 
 .panel-footer {
-	color:#fff;
-	background-color: #000;
+  color:#fff;
+  background-color: #000;
 }
 
 .footer {
-	position: absolute;
-	bottom: 0;
-	width: 100%;
-	height: 175px;
-	background-color: #000;
-	
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 175px;
+  background-color: #000;
+  
 
 }
+

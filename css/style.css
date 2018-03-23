@@ -7,7 +7,7 @@ html{
 body{
 	font: 20px/26px arial, sans-serif;
 	background-image: url("img/darkness.png");
-	background-color: #a6a6a6;
+	background-color: #fff;
 	margin-top: 30px;
 }
 
@@ -54,9 +54,16 @@ section {
 }
 
 .about {
-	background-color: #fff;
+	background-color: #d0d5d4;
 }
 
+.geo {
+	background-color: #d0d5d4;
+}
+
+.kep {
+	background-color: #d0d5d4;
+}
 
 h2 {
 	color: black;

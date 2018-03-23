@@ -6,7 +6,7 @@
 
 	body{
 		font: 20px/26px arial, sans-serif;
-		background-color: #f2f2f2;
+		background-color: #fff;
 		margin-top: 30px;
 	}
 
@@ -70,9 +70,6 @@
 	    
 	} 
 
-	h5 {
-		font-size: 3vw;
-	}
 
 	h2 {
 		color:#000;
@@ -96,7 +93,7 @@
 	}
 
 	h5 {
-		font-size: 30px;
+		font-size: 2vw;
 	}
 
 	hr{
@@ -114,20 +111,20 @@
 	}
 
 	.about {
-		background-color: #d9d9d9;
-		font-size: 22px; 
+		background-color: #d0d5d4;
+		
 	}
 
 	.location {
-		background-color: #f2f2f2;
+		background-color: #d0d5d4;
 	}
 
 	.learning {
-		background-color: #f2f2f2;
+		background-color: #fff;
 	}
 
 	.ekstrakulikuler {
-		background-color: #f2f2f2;
+		background-color: #fff;
 		font-size: 25px;
 	}
 
@@ -136,7 +133,7 @@
 	}
 
 	.comment {
-		background-color: #f2f2f2;
+		background-color: #fff;
 	}
 
 	.contact a{
@@ -175,7 +172,7 @@
 	}
 
 	
-
+	/*container di about dkk*/
 	.container {
     position: relative;
     max-width: 900px; /* Maximum width */
@@ -188,5 +185,8 @@
     color: #f1f1f1; /* Grey text */
     width: 95%; /* Full width */
     padding: 20px; /* Some padding */
+
 }
+
+/*akhir container di about dkk*/
 
