@@ -7,7 +7,7 @@ html{
 body{
 	font: 20px/26px arial, sans-serif;
 	background-image: url("img/darkness.png");
-	background-color: #fff;
+	background-color: #000;
 	margin-top: 30px;
 }
 
@@ -54,6 +54,18 @@ section {
 }
 
 .about {
+	background-color: #fff;
+}
+
+.contact {
+	background-color: #2a2a2a;
+}
+
+.tkj {
+	background-color: #d0d5d4;
+}
+
+.akun {
 	background-color: #d0d5d4;
 }
 
@@ -73,22 +85,29 @@ h2 {
 	color: #000;
 }
 
-footer p {
-	color: #aaa; 
-	font-size: 1em;
-}
 
+
+	.footer {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		height: 175px;
+		
+
+	}
 .panel-footer {
-	color:#fff;
-	background-color: #000;
-}
+		color:#fff;
+		background-color: #000;
+		text-align: center;
+	}
 
-.footer {
-	position: absolute;
-	bottom: 0;
-	width: 100%;
-	height: 175px;
-	background-color: #000;
-	
+	.form-group {
+		color:#fff;
+		text-align: left;
+	}
 
-}
+	 {
+		position: left;
+	}
+
+

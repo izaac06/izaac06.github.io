@@ -14,6 +14,7 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: 70vw;
+    background-color: #d8d8d8;
     position: relative;
     padding-top: 100px;
 }
@@ -103,7 +104,7 @@ h5 {
 }
 
 
-.comment {
+.komentar {
    -webkit-text-stroke: 0px black;
    color: white;
    text-shadow:
