@@ -5,7 +5,7 @@ body, html {
 /* The hero image */
 .hero-image {
     /* The image used */
-    background-image: url("smk-1 copy.png");
+    background-image: url("smk-1.png");
 
     /* Set a specific height */
     height: 50%;
@@ -13,8 +13,7 @@ body, html {
     /* Position and center the image to scale nicely on all screens */
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 70vw;
-    background-color: #d8d8d8;
+    background-size: 800px;
     position: relative;
     padding-top: 100px;
 }
@@ -67,18 +66,6 @@ p {
    
 }
 
-h5 {
-   -webkit-text-stroke: 0px black;
-   color: white;
-   text-shadow:
-
-   -1px -1px 0 #000,  
-      1px -1px 0 #000,
-      -1px 1px 0 #000,
-       1px 1px 0 #000;
-   
-}
-
 
 
 
@@ -92,19 +79,6 @@ h5 {
 }
 
 .centered {
-   -webkit-text-stroke: 0px black;
-   color: white;
-   text-shadow:
-
-   -1px -1px 0 #000,  
-      1px -1px 0 #000,
-      -1px 1px 0 #000,
-       1px 1px 0 #000;
-   
-}
-
-
-.komentar {
    -webkit-text-stroke: 0px black;
    color: white;
    text-shadow:

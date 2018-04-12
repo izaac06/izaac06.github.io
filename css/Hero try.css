@@ -5,7 +5,7 @@ body, html {
 /* The hero image */
 .hero-image {
     /* The image used */
-    background-image: url("smk-1 copy.png");
+    background-image: url("smk-1.png");
 
     /* Set a specific height */
     height: 50%;
@@ -13,12 +13,11 @@ body, html {
     /* Position and center the image to scale nicely on all screens */
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 70vw;
-    background-color: #d8d8d8;
+    background-size: cover;
     position: relative;
-    padding-top: 100px;
+    background-size: 800px;
+    padding-top: 350px;
 }
-
 
 /* Place text in the middle of the image */
 
